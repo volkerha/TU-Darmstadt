@@ -1,0 +1,9 @@
+Monogram:
+Missing Words Test->Train: 60882(of 106156 words in Test)
+Percentage of miss Test->Train: 0.5735144504314406
+
+Bigram:
+Percentage of miss Test->Train: 0.7786152053682132
+
+trigram:
+Percentage of miss Test->Train: 0.9055833025633053
