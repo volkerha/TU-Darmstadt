@@ -1,2 +1,2 @@
 # TU-Darmstadt
-includes all repos for projects at TU Darmstadt
+Some projects I did during my studies at TU Darmstadt
